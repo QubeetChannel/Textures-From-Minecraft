@@ -31,7 +31,6 @@ If you want to extract original Minecraft textures for educational or personal u
 
 4. **Use responsibly**  
    Only use the extracted textures for **non-commercial**, **educational**, or **personal** projects. Do not redistribute them as your own or try to sell them.
-   
 
 📌 *Always respect Mojang’s End User License Agreement (EULA):*  
 👉 https://www.minecraft.net/en-us/eula
